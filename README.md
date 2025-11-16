@@ -218,24 +218,6 @@ Deepfake Detector
 
 AI Personal Assistant (NLP + RPA)
 
-
-
-▶️ How to Run Projects
-
-Clone this repo:
-
-git clone https://github.com/YourUsername/100-days-of-python.git
-
-
-Navigate to any day folder:
-
-cd 100-days-of-python/Day01
-
-
-Run Python file:
-
-python day01.py
-
 📅 Daily Progress
 Day	Project	Status
 1	Hello World Customizer	✅ Completed
