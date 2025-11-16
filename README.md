@@ -1,12 +1,11 @@
-# 🚀 Day 1 — Hello World Customizer
+🐍 100 Days of Python — Projects Challenge
 
-### 📌 Project Description
-This is the first project of my **100 Days of Python** challenge.  
-In this project, I created a simple Python program that:
+Welcome to my 100 Days of Python challenge!
+This repository contains 100 Python projects, structured to take you from beginner to expert.
 
-- Takes the user's name as input   
-- Displays it on the screen  
-
-This helps to understand **basic input/output** operations in Python.
-
----
+🚀 Challenge Breakdown
+Level	Days	Description
+Basic	1–25	Fundamentals: loops, functions, input/output, strings, lists
+Intermediate	26–50	Working with APIs, files, JSON, OOP, small apps
+Hard	51–75	Web scraping, automation, ML basics, data visualization
+Expert	76–100	AI, deep learning, full-stack Python apps, advanced ML projects
