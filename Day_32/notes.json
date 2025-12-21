@@ -1,0 +1,17 @@
+{
+    "1": {
+        "title": "Welcome Note",
+        "content": "This is your first note in the DAY_32\n Notes App! You can add, view, edit, and delete notes.",
+        "creation_date": "2025-12-21 18:12:37"
+    },
+    "2": {
+        "title": "Project Idea: New App",
+        "content": "Brainstorming a new application: a task manager with Streak tracking. Needs a clean UI and cloud sync.",
+        "creation_date": "2025-12-21 18:12:37"
+    },
+    "3": {
+        "title": "Grocery List",
+        "content": "Milk, Eggs, Bread, Spinach, Chicken, Apples",
+        "creation_date": "2025-12-21 18:12:37"
+    }
+}
